@@ -13,7 +13,7 @@
 
 Slides for the workshop will be available in this repository:
 
-
+[Introduction and overview](Bioinformatics%20for%20Antimicrobial%20Resistance%20Research.pdf)
 
 ### Papers
 
