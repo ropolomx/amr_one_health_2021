@@ -23,7 +23,7 @@
 
 ### Other slides
 
-[Torsten Seemann's presentation slides](https://www.slideshare.net/torstenseemann/presentations)
+* [Torsten Seemann's presentation slides](https://www.slideshare.net/torstenseemann/presentations)
 
 ### Papers
 
@@ -31,7 +31,7 @@
 
 * [A Primer on Infectious Disease Bacterial Genomics](https://journals.asm.org/doi/full/10.1128/CMR.00001-16) (Lynch et al., 2016)
 * [A Primer on Microbial Bioinformatics for non-bionformaticians](https://pubmed.ncbi.nlm.nih.gov/29309933/) (Carrico et al., 2018)
-* 
+* [Best practices for analysing microbiomes](https://www.nature.com/articles/s41579-018-0029-9) (Knight et al., 2018)
 
 #### Studies
 
