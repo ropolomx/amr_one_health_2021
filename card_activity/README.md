@@ -2,6 +2,13 @@
 
 ## Resistome predictions with CARD
 
+CARD’s website provides the ability to:
+
+Browse the Antibiotic Resistance Ontology (ARO) and associated knowledgebase.
+Browse the underlying AMR detection models, reference sequences, and SNP matrices.
+Download the ARO, reference sequence data, and indices in a number of formats for custom analyses.
+Perform integrated genome analysis using the Resistance Gene Identifier (RGI).
+
 ### Activity #1: E.coli plasmid
 
 1. Go to https://card.mcmaster.ca/
