@@ -18,7 +18,7 @@
 ### Workshop slides and hands-on activities
 
 * [Introduction and overview PDF slides](Bioinformatics%20for%20Antimicrobial%20Resistance%20Research.pdf)
-* [Using CARD and RGI to characterize the resistome of bacterial genomes]()
+* [Using CARD and RGI to characterize the resistome of bacterial plasmids and genomes](card_activty)
 * [Genome Assembly of MRSA using Illumina MiSeq Data (with Galaxy)](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-illumina/tutorial.html)
 
 ### Other slides
