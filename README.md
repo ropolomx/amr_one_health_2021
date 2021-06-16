@@ -29,7 +29,7 @@ Slides for the workshop will be available in this repository:
 #### Studies
 
 * [Surveillance of Enterococcus spp . reveals distinct species and antimicrobial resistance diversity across a One-Health continuum](https://www.nature.com/articles/s41598-020-61002-5)
-* [Characterization of Non-O157 Escherichia coli from Cattle Faecal Samples in the North-West Province of South Africa]
+* [Characterization of Non-O157 Escherichia coli from Cattle Faecal Samples in the North-West Province of South Africa](https://www.mdpi.com/2076-2607/7/8/272)
 
 ### Websites and videos
 
