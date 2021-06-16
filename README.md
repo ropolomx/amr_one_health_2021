@@ -42,6 +42,10 @@
 * [CARD: The Comprehensive Antibiotic Resistance Database](https://card.mcmaster.ca/)
 * [State of the CARD 2021 Presentations and Demonstrations](https://github.com/arpcard/state-of-the-card-2021)
 
+### Metagenomics
+
+* [MEGARes database](https://megares.meglab.org/)
+
 ### Virus resources
 
 * [ViralZone](https://viralzone.expasy.org/)
