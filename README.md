@@ -7,6 +7,12 @@
 * Overview of methods for bacterial genomics and molecular epidemiology
 * Introduction to databases and tools for the analysis of antimicrobial resistance genes
 
+## Workshop program (2021-06-16)
+
+* Introduction and overview of bioinformatics for AMR: methods and databases
+* Hands-on work with the Comprehensive Antimicrobial Resistance Database (CARD): using RGI to analyze 
+* Hands-on work with Galaxy: assembly of a MRSA genome 
+
 ## Resources
 
 ### Workshop slides
@@ -41,4 +47,8 @@ Slides for the workshop will be available in this repository:
 * [ViralZone](https://viralzone.expasy.org/)
 * [ViPR Virus Pathogen Resource](https://www.viprbrc.org/brc/home.spg?decorator=vipr)
 
+## Hands-on activities
+
+* [Using CARD and RGI to characterize the resistome of bacterial genomes]()
+* [Genome Assembly of MRSA using Illumina MiSeq Data (with Galaxy)](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-illumina/tutorial.html)
 
