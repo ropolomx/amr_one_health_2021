@@ -31,20 +31,24 @@
 
 * [A Primer on Infectious Disease Bacterial Genomics](https://journals.asm.org/doi/full/10.1128/CMR.00001-16) (Lynch et al., 2016)
 * [A Primer on Microbial Bioinformatics for non-bionformaticians](https://pubmed.ncbi.nlm.nih.gov/29309933/) (Carrico et al., 2018)
+* 
 
 #### Studies
 
-* [Surveillance of Enterococcus spp . reveals distinct species and antimicrobial resistance diversity across a One-Health continuum](https://www.nature.com/articles/s41598-020-61002-5)
-* [Characterization of Non-O157 Escherichia coli from Cattle Faecal Samples in the North-West Province of South Africa](https://www.mdpi.com/2076-2607/7/8/272)
+**Bacterial genomics (single species)**
 
-### Websites and videos
+* [Surveillance of Enterococcus spp . reveals distinct species and antimicrobial resistance diversity across a One-Health continuum](https://www.nature.com/articles/s41598-020-61002-5) (Zaheer et al., 2019)
+* [Characterization of Non-O157 Escherichia coli from Cattle Faecal Samples in the North-West Province of South Africa](https://www.mdpi.com/2076-2607/7/8/272)(Bumunang et al, 2019)
+
+### Databases
 
 * [CARD: The Comprehensive Antibiotic Resistance Database](https://card.mcmaster.ca/)
-* [State of the CARD 2021 Presentations and Demonstrations](https://github.com/arpcard/state-of-the-card-2021)
-
-### Metagenomics
-
+* [NCBI AMRFinderPlus](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA313047)
 * [MEGARes database](https://megares.meglab.org/)
+
+### Videos
+
+* [State of the CARD 2021 Presentations and Demonstrations](https://github.com/arpcard/state-of-the-card-2021)
 
 ### Virus resources
 
