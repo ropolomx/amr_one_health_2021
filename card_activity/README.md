@@ -12,7 +12,7 @@
 6. Select Criteria Perfect and Strict hits only
 7. Nudge: Exclude nudge
 8. Sequence Quality: High quality/coverage
-9. Analysis of results.
+9. Analysis of results: Table view, AMR Genes, AMR Gene Family, Drug Class, Resistance Mechanism. Let's discuss the data visualization and exploring the results.
 
 ### Activity #2: Acinectobacter baumannii genome
 
