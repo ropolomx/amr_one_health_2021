@@ -1,6 +1,6 @@
 # Bioinformatics for AMR Research
 
-## Part of the One Health Summer Institute's Introduction to Bioinformatics Workshops
+## A workshop for the [One Health Summer Institute's](https://research.ucalgary.ca/one-health/training/one-health-summer-institute) Introduction to Bioinformatics Workshops
 
 ## Goals of the workshop
 
@@ -10,16 +10,16 @@
 ## Workshop program (2021-06-16)
 
 * Introduction and overview of bioinformatics for AMR: methods and databases
-* Hands-on work with the Comprehensive Antimicrobial Resistance Database (CARD): using RGI to analyze 
-* Hands-on work with Galaxy: assembly of a MRSA genome 
+* Hands-on activity with the Comprehensive Antimicrobial Resistance Database (CARD): using RGI to analyze genomes and plasmids
+* Hands-on work with Galaxy: *de novo* ssembly of a MRSA genome and analysis of antimicrobial resistance genes
 
 ## Resources
 
-### Workshop slides
+### Workshop slides and hands-on activities
 
-Slides for the workshop will be available in this repository:
-
-[Introduction and overview](Bioinformatics%20for%20Antimicrobial%20Resistance%20Research.pdf)
+[Introduction and overview PDF slides](Bioinformatics%20for%20Antimicrobial%20Resistance%20Research.pdf)
+* [Using CARD and RGI to characterize the resistome of bacterial genomes]()
+* [Genome Assembly of MRSA using Illumina MiSeq Data (with Galaxy)](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-illumina/tutorial.html)
 
 ### Other slides
 
@@ -46,9 +46,4 @@ Slides for the workshop will be available in this repository:
 
 * [ViralZone](https://viralzone.expasy.org/)
 * [ViPR Virus Pathogen Resource](https://www.viprbrc.org/brc/home.spg?decorator=vipr)
-
-## Hands-on activities
-
-* [Using CARD and RGI to characterize the resistome of bacterial genomes]()
-* [Genome Assembly of MRSA using Illumina MiSeq Data (with Galaxy)](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-illumina/tutorial.html)
 
