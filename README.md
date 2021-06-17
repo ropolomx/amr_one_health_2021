@@ -1,6 +1,6 @@
 # Bioinformatics for AMR Research
 
-## A workshop for the [One Health Summer Institute's](https://research.ucalgary.ca/one-health/training/one-health-summer-institute) Introduction to Bioinformatics Workshops
+## A workshop for the [One Health Summer Institute's](https://research.ucalgary.ca/one-health/training/one-health-summer-institute) Introduction to Bioinformatics sessions
 
 ## Goals of the workshop
 
